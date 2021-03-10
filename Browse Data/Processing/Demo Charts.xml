@@ -1,0 +1,145 @@
+<SMBrowseXML>
+	<Name>Aged Inventory Report</Name>
+	<DataTable>CaviarFlatTable</DataTable>
+  <Filter></Filter>
+  <Sort></Sort>
+  <Chart>
+    <ChartName>Inventory Status by Count</ChartName>
+    <ChartType>bar</ChartType>
+    <XVar>PKStatusID</XVar>
+    <XType>number</XType>
+    <YVar>PKBarcode</YVar>
+    <YType>number</YType>
+    <DataManipulation>
+      <Formula>Count</Formula>
+      <Interval>1</Interval>
+      <IntervalType>number</IntervalType>
+      <XVarLabel>InventoryStatusDescription</XVarLabel>
+    </DataManipulation>
+    <Chart>
+		  <ChartName>Harvest Date by Count</ChartName>
+		  <ChartType>pie</ChartType>
+		  <XVar>Harvest Date</XVar>
+      <XType>date</XType>
+      <YVar>PKBarcode</YVar>
+      <YType>number</YType>
+      <DataManipulation>
+        <Formula>Count</Formula>
+        <Interval>1</Interval>
+        <IntervalType>month</IntervalType>
+      </DataManipulation>
+      <Chart>
+        <ChartName>Grade by Count</ChartName>
+        <ChartType>pie</ChartType>
+        <XVar>FKProductGradeID</XVar>
+        <XType>number</XType>
+        <YVar>PKBarcode</YVar>
+        <YType>number</YType>
+        <DataManipulation>
+          <Formula>DistinctCount</Formula>
+          <Interval>1</Interval>
+          <IntervalType>number</IntervalType>
+          <XVarLabel>ProductGrade</XVarLabel>
+        </DataManipulation>
+        <Chart>
+          <ChartName>Product by Count</ChartName>
+          <ChartType>pie</ChartType>
+          <XVar>FKProductID</XVar>
+          <XType>number</XType>
+          <YVar>PKBarcode</YVar>
+          <YType>number</YType>
+          <DataManipulation>
+            <Formula>DistinctCount</Formula>
+            <Interval>1</Interval>
+            <IntervalType>number</IntervalType>
+            <XVarLabel>Product Name</XVarLabel>
+          </DataManipulation>
+        </Chart>
+      </Chart>
+	  </Chart>
+    <Chart>
+      <ChartName>Grade by Count</ChartName>
+      <ChartType>pie</ChartType>
+      <XVar>FKProductGradeID</XVar>
+      <XType>number</XType>
+      <YVar>PKBarcode</YVar>
+      <YType>number</YType>
+      <DataManipulation>
+        <Formula>DistinctCount</Formula>
+        <Interval>1</Interval>
+        <IntervalType>number</IntervalType>
+        <XVarLabel>ProductGrade</XVarLabel>
+      </DataManipulation>
+    </Chart>
+  </Chart>
+  <Chart>
+    <ChartName>Inventory Status by Weight</ChartName>
+    <ChartType>pie</ChartType>
+    <XVar>PKStatusID</XVar>
+    <XType>number</XType>
+    <YVar>UnitWeightgms</YVar>
+    <YType>number</YType>
+    <DataManipulation>
+      <Formula>SUM</Formula>
+      <Interval>1</Interval>
+      <IntervalType>number</IntervalType>
+      <XVarLabel>InventoryStatusDescription</XVarLabel>
+    </DataManipulation>
+    <Chart>
+      <ChartName>Harvest Date by Weight</ChartName>
+      <ChartType>pie</ChartType>
+      <XVar>Harvest Date</XVar>
+      <XType>date</XType>
+      <YVar>UnitWeightgms</YVar>
+      <YType>number</YType>
+      <DataManipulation>
+        <Formula>SUM</Formula>
+        <Interval>1</Interval>
+        <IntervalType>month</IntervalType>
+      </DataManipulation>
+      <Chart>
+        <ChartName>Grade by Weight</ChartName>
+        <ChartType>pie</ChartType>
+        <XVar>FKProductGradeID</XVar>
+        <XType>number</XType>
+        <YVar>UnitWeightgms</YVar>
+        <YType>number</YType>
+        <DataManipulation>
+          <Formula>SUM</Formula>
+          <Interval>1</Interval>
+          <IntervalType>number</IntervalType>
+          <XVarLabel>ProductGrade</XVarLabel>
+        </DataManipulation>
+        <Chart>
+          <ChartName>Product by Weight</ChartName>
+          <ChartType>pie</ChartType>
+          <XVar>FKProductID</XVar>
+          <XType>number</XType>
+          <YVar>UnitWeightgms</YVar>
+          <YType>number</YType>
+          <DataManipulation>
+            <Formula>SUM</Formula>
+            <Interval>1</Interval>
+            <IntervalType>number</IntervalType>
+            <XVarLabel>Product Name</XVarLabel>
+          </DataManipulation>
+        </Chart>
+      </Chart>
+    </Chart>
+    <Chart>
+      <ChartName>Grade by Weight</ChartName>
+      <ChartType>pie</ChartType>
+      <XVar>FKProductGradeID</XVar>
+      <XType>number</XType>
+      <YVar>UnitWeightgms</YVar>
+      <YType>number</YType>
+      <DataManipulation>
+        <Formula>SUM</Formula>
+        <Interval>1</Interval>
+        <IntervalType>number</IntervalType>
+        <XVarLabel>ProductGrade</XVarLabel>
+      </DataManipulation>
+    </Chart>
+  </Chart>
+
+</SMBrowseXML>

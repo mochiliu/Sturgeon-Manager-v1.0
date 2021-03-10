@@ -1,0 +1,11 @@
+^FM This file is written in Zebra Printing Language (ZPL) by Mochi Liu. Documentation can be found here: http://www.ptshome.com/kb/Manuals/ZPL_Vol1.pdf. Command FM denotes a comment
+^FM #Variable Name# in PrintCommandTemplate.txt is replaced by Sturgeon Manager to generate PrintCommands.txt. PrintCommands.txt is sent to the printer to be executed
+~SD30^FM Set the darkness to the maximum 30
+~JSA^FM Set the Backfeed to 100% so that the bottom of the label prints
+^XA^FM Begin Print Document
+^PR2,2,2^FM Set the Print rate, slew rate and backfeed rate to the slowest: 2inch/sec
+^FO130,55^A@N,20,20,E:ARI000.FNT^FDAcipenser #SPECIES#^FS^FM Arial italic font was loaded into the flash memory of the printer at E:ARI000 and is used to print the speices data
+^FO130,80^ADN,30,14^FD#DATE# #SIZE# #COLOR#^FS^FM Date, egg size and color information in font D
+^FO125,110^BY2^BCN,50,Y,N^FD#BARCODE#^FS^FM Barcode in code 128, with the number on the bottom
+^FO145,185^ADN,36,20^FD#PRODUCT#^FS^FM Product code in font D
+^XZ^FM End Print Document

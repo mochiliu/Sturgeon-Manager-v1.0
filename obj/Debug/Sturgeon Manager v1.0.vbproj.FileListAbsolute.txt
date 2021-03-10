@@ -1,0 +1,374 @@
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.exe
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\SturgeonDB.mdb
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.xml
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\office.dll
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+C:\Documents and Settings\cstb\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.exe
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\label.btw
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\barcode.txt
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\PrintCommandsTemplate.txt
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\SturgeonDB.mdb
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.pdb
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.xml
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\office.dll
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.About.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AlignPrinter.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BackUpRecovery.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldInventoryEntry.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PrintingPackingStation.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RemoteShutDown.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackReturns.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.exe
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\label.btw
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\barcode.txt
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\PrintCommandsTemplate.txt
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\SturgeonDB.mdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.xml
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\office.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.About.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AlignPrinter.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BackUpRecovery.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldInventoryEntry.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PrintingPackingStation.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RemoteShutDown.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackReturns.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.exe
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\label.btw
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\barcode.txt
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\PrintCommandsTemplate.txt
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\SturgeonDB.mdb
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.xml
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\office.dll
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.About.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AlignPrinter.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BackUpRecovery.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldInventoryEntry.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PrintingPackingStation.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RemoteShutDown.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackReturns.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldSaltingStation.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldSaltingStation.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldSaltingStation.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.dll
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AddressRecommendation.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AddressRecommendation.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.dll
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AddressRecommendation.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PostProcessingData.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PostProcessingData.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PostProcessingData.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BrowseData.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BrowseData.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BrowseData.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Browse Data\Processing\Demo Charts.xml
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Browse Data\Processing\Demo Charts.xml
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Browse Data\Processing\Demo Charts.xml
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackLoss.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackLoss.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SalesReport.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SalesReport.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.WeightConversionConstants.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.WeightConversionConstants.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.MaleHarvest.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.MaleHarvest.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Sales Report.xlsx
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Sales Report.xlsx
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\ExtendedControls.dll
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\ExtendedControls.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.pdb
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Aged Inventory.xlsx
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AgedInventoryReport.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Aged Inventory.xlsx
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AgedInventoryReport.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.CaviarInventoryAudit.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.CaviarInventoryAudit.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Audit Report.xlsx
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Audit Report.xlsx
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Sales Report.xlsx
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Aged Inventory.xlsx
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Audit Report.xlsx
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\ExtendedControls.dll
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.pdb
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AgedInventoryReport.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.CaviarInventoryAudit.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.MaleHarvest.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackLoss.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SalesReport.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.WeightConversionConstants.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventoryValue.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventoryValue.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EndAuditOption.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EndAuditOption.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Sales Report.xlsx
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Aged Inventory.xlsx
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Excel Templates\Audit Report.xlsx
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Browse Data\Processing\Demo Charts.xml
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\label.btw
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\barcode.txt
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Label Printing\PrintCommandsTemplate.txt
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\SturgeonDB.mdb
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.pdb
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.xml
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.dll
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\ExtendedControls.dll
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\office.dll
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\DataGridViewCustomColumn.pdb
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EndAuditOption.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.About.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AddressRecommendation.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AgedInventoryReport.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AlignPrinter.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BackUpRecovery.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BrowseData.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.CaviarInventoryAudit.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventoryValue.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.MaleHarvest.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldInventoryEntry.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PostProcessingData.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PrintingPackingStation.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RemoteShutDown.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackLoss.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackReturns.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SalesReport.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.WeightConversionConstants.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldSaltingStation.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.exe
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EndAuditOption.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventoryValue.resources
+C:\Users\Current\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ExtraFishInventory.resources
+C:\Documents and Settings\Owner\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ExtraFishInventory.resources
+C:\Users\mochi-laptop\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ExtraFishInventory.resources
+C:\Documents and Settings\user\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ExtraFishInventory.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.exe
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EndAuditOption.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.About.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AddressRecommendation.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AgedInventoryReport.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AlignPrinter.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BackUpRecovery.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BrowseData.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.CaviarInventoryAudit.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventoryValue.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ExtraFishInventory.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.MaleHarvest.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldInventoryEntry.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PostProcessingData.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PrintingPackingStation.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RemoteShutDown.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackLoss.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackReturns.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SalesReport.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.WeightConversionConstants.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldSaltingStation.resources
+C:\Documents and Settings\Pro\My Documents\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EndAuditOption.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.About.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AddressRecommendation.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AgedInventoryReport.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AlignPrinter.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BackUpRecovery.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BrowseData.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.CaviarInventoryAudit.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventoryValue.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ExtraFishInventory.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.MaleHarvest.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldInventoryEntry.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PostProcessingData.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PrintingPackingStation.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RemoteShutDown.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackLoss.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackReturns.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SalesReport.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.WeightConversionConstants.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldSaltingStation.resources
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.exe
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+\\psf\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\bin\Debug\Sturgeon Manager v1.0.exe.config
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.xml
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.pdb
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EndAuditOption.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.About.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AddressRecommendation.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AgedInventoryReport.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.AlignPrinter.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BackUpRecovery.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.BrowseData.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.CaviarInventoryAudit.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventoryValue.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ExtraFishInventory.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.MaleHarvest.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldInventoryEntry.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PostProcessingData.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PrintingPackingStation.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Filter.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Customer.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditFishInventory.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.EditInventory.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Invoice.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Main.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RemoteShutDown.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackLoss.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.RepackReturns.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.ReportViewer.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SalesReport.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.SaltingStation.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.WeightConversionConstants.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Resources.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewCaviarInvoice.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.NewFishInvoice.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.PackingStation.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Pricing.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.Product.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon_Manager_v1._0.OldSaltingStation.resources
+C:\Users\pro\Dropbox\Mote 2013\Sturgeon Manager v1.0\Sturgeon Manager v1.0\obj\Debug\Sturgeon Manager v1.0.vbproj.GenerateResource.Cache

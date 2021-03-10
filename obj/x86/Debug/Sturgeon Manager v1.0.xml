@@ -1,0 +1,303 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SturgeonManagerv1.0
+</name>
+</assembly>
+<members>
+<member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Caviar_FishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Caviar_InventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CaviarStatusSelectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Customer_PricingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.GradeSelectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.InvoicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.ProductCategorySelectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Billing_AddressesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet._Non_Inventory_Invoice_RecordsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Shipping_AddressesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CaviarInventoryJoinCaviarFishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.InvoiceTypeSelectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Application_SettingsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.FilterColumnsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Caviar_FishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Caviar_InventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CaviarStatusSelectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Customer_PricingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.GradeSelectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.InvoicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.ProductCategorySelectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Billing_AddressesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet._Non_Inventory_Invoice_RecordsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Shipping_AddressesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CaviarInventoryJoinCaviarFishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.InvoiceTypeSelectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Application_SettingsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.FilterColumnsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Caviar_FishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Caviar_InventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CaviarStatusSelectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Customer_PricingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.GradeSelectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.InvoicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.ProductCategorySelectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Billing_AddressesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet._Non_Inventory_Invoice_RecordsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Shipping_AddressesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.CaviarInventoryJoinCaviarFishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.InvoiceTypeSelectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.Application_SettingsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet.FilterColumnsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.Caviar_FishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.Caviar_InventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.CaviarStatusSelectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.Customer_PricingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.GradeSelectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.InvoicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.ProductCategorySelectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.Billing_AddressesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.Non_Inventory_Invoice_RecordsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.Shipping_AddressesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.CaviarInventoryJoinCaviarFishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.InvoiceTypeSelectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.Application_SettingsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.FilterColumnsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sturgeon_Manager_v1._0.SturgeonDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sturgeon_Manager_v1._0.SturgeonDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sturgeon_Manager_v1._0.SturgeonDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager.UpdateAll(Sturgeon_Manager_v1._0.SturgeonDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sturgeon_Manager_v1._0.SturgeonDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

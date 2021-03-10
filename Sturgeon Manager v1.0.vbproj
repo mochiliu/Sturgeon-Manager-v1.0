@@ -1,0 +1,701 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{225A29D8-84D1-46DB-91C0-042DD6453FD9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sturgeon_Manager_v1._0.My.MyApplication</StartupObject>
+    <RootNamespace>Sturgeon_Manager_v1._0</RootNamespace>
+    <AssemblyName>Sturgeon Manager v1.0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SignAssembly>false</SignAssembly>
+    <ApplicationIcon>Reports\Sturgeon Icon.ico</ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sturgeon Manager v1.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sturgeon Manager v1.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Sturgeon Manager v1.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Sturgeon Manager v1.0.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DataGridViewCustomColumn, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Custom Controls\DataGridViewCustomColumn.dll</HintPath>
+    </Reference>
+    <Reference Include="ExtendedControls, Version=1.0.3052.21480, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Custom Controls\ExtendedControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AlphaNumericValue.vb" />
+    <Compile Include="Classes\CaviarOrderSummaryEntry.vb" />
+    <Compile Include="Classes\CaviarSummaryEntry.vb" />
+    <Compile Include="Classes\ComboBoxObjectForBrowseData.vb" />
+    <Compile Include="Classes\ComboBoxObjectForFilter.vb" />
+    <Compile Include="Classes\DataBoundColumnForFilter.vb" />
+    <Compile Include="Classes\ListViewItemComparer.vb" />
+    <Compile Include="Classes\RawPrinterHelper.vb" />
+    <Compile Include="Classes\WaitCursor.vb" />
+    <Compile Include="Custom Controls\AutoDropDownWidthComboBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\EndAuditOption.Designer.vb">
+      <DependentUpon>EndAuditOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Controls\EndAuditOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\EnterKeyToTabDataGridView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom Controls\TabTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddressRecommendation.Designer.vb">
+      <DependentUpon>AddressRecommendation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddressRecommendation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AgedInventoryReport.Designer.vb">
+      <DependentUpon>AgedInventoryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AgedInventoryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AlignPrinter.Designer.vb">
+      <DependentUpon>AlignPrinter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AlignPrinter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BackUpRecovery.Designer.vb">
+      <DependentUpon>BackUpRecovery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BackUpRecovery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BrowseData.Designer.vb">
+      <DependentUpon>BrowseData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BrowseData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CaviarInventoryAudit.Designer.vb">
+      <DependentUpon>CaviarInventoryAudit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CaviarInventoryAudit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditInventoryValue.Designer.vb">
+      <DependentUpon>EditInventoryValue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditInventoryValue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ExtraFishInventory.Designer.vb">
+      <DependentUpon>ExtraFishInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ExtraFishInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MaleHarvest.Designer.vb">
+      <DependentUpon>MaleHarvest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MaleHarvest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OldInventoryEntry.Designer.vb">
+      <DependentUpon>OldInventoryEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OldInventoryEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PostProcessingData.Designer.vb">
+      <DependentUpon>PostProcessingData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PostProcessingData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrintingPackingStation.Designer.vb">
+      <DependentUpon>PrintingPackingStation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrintingPackingStation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Filter.Designer.vb">
+      <DependentUpon>Filter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Filter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customer.Designer.vb">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditFishInventory.Designer.vb">
+      <DependentUpon>EditFishInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditFishInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditInventory.Designer.vb">
+      <DependentUpon>EditInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Invoice.Designer.vb">
+      <DependentUpon>Invoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Invoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RemoteShutDown.Designer.vb">
+      <DependentUpon>RemoteShutDown.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RemoteShutDown.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RepackLoss.Designer.vb">
+      <DependentUpon>RepackLoss.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RepackLoss.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RepackReturns.Designer.vb">
+      <DependentUpon>RepackReturns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RepackReturns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReportViewer.Designer.vb">
+      <DependentUpon>ReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SalesReport.Designer.vb">
+      <DependentUpon>SalesReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SalesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SaltingStation.designer.vb">
+      <DependentUpon>SaltingStation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SaltingStation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightConversionConstants.Designer.vb">
+      <DependentUpon>WeightConversionConstants.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightConversionConstants.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Custom Controls\MyDateTimePicker.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\NewCaviarInvoice.Designer.vb">
+      <DependentUpon>NewCaviarInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NewCaviarInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NewFishInvoice.Designer.vb">
+      <DependentUpon>NewFishInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NewFishInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PackingStation.Designer.vb">
+      <DependentUpon>PackingStation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PackingStation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Pricing.Designer.vb">
+      <DependentUpon>Pricing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Pricing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Product.Designer.vb">
+      <DependentUpon>Product.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OldSaltingStation.Designer.vb">
+      <DependentUpon>OldSaltingStation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OldSaltingStation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Files\Common.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Reports\CaviarInvoiceReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CaviarInvoiceReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\FishInvoiceReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FishInvoiceReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\FishPackingReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FishPackingReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\CaviarPackingReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CaviarPackingReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\CustomersReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomersReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\InventoryValueReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventoryValueReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\ProductListing.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductListing.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Other Files\SturgeonDBDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SturgeonDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Other Files\SturgeonDBDataSet.vb">
+      <DependentUpon>SturgeonDBDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Custom Controls\EndAuditOption.resx">
+      <DependentUpon>EndAuditOption.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddressRecommendation.resx">
+      <DependentUpon>AddressRecommendation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AgedInventoryReport.resx">
+      <DependentUpon>AgedInventoryReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AlignPrinter.resx">
+      <DependentUpon>AlignPrinter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BackUpRecovery.resx">
+      <DependentUpon>BackUpRecovery.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BrowseData.resx">
+      <DependentUpon>BrowseData.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CaviarInventoryAudit.resx">
+      <DependentUpon>CaviarInventoryAudit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditInventoryValue.resx">
+      <DependentUpon>EditInventoryValue.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ExtraFishInventory.resx">
+      <DependentUpon>ExtraFishInventory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MaleHarvest.resx">
+      <DependentUpon>MaleHarvest.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OldInventoryEntry.resx">
+      <DependentUpon>OldInventoryEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PostProcessingData.resx">
+      <DependentUpon>PostProcessingData.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrintingPackingStation.resx">
+      <DependentUpon>PrintingPackingStation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Filter.resx">
+      <DependentUpon>Filter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customer.resx">
+      <DependentUpon>Customer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditFishInventory.resx">
+      <DependentUpon>EditFishInventory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditInventory.resx">
+      <DependentUpon>EditInventory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Invoice.resx">
+      <DependentUpon>Invoice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RemoteShutDown.resx">
+      <DependentUpon>RemoteShutDown.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RepackLoss.resx">
+      <DependentUpon>RepackLoss.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RepackReturns.resx">
+      <DependentUpon>RepackReturns.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReportViewer.resx">
+      <DependentUpon>ReportViewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SalesReport.resx">
+      <DependentUpon>SalesReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SaltingStation.resx">
+      <DependentUpon>SaltingStation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightConversionConstants.resx">
+      <DependentUpon>WeightConversionConstants.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NewCaviarInvoice.resx">
+      <DependentUpon>NewCaviarInvoice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NewFishInvoice.resx">
+      <DependentUpon>NewFishInvoice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PackingStation.resx">
+      <DependentUpon>PackingStation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pricing.resx">
+      <DependentUpon>Pricing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Product.resx">
+      <DependentUpon>Product.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OldSaltingStation.resx">
+      <DependentUpon>OldSaltingStation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CaviarInvoiceReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CaviarInvoiceReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\FishInvoiceReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FishInvoiceReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\FishPackingReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FishPackingReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CaviarPackingReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CaviarPackingReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CustomersReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CustomersReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\InventoryValueReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InventoryValueReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ProductListing.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ProductListing.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <Content Include="Excel Templates\Sales Report.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Excel Templates\Aged Inventory.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Excel Templates\Audit Report.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="My Project\app.manifest" />
+    <None Include="Other Files\app.config" />
+    <None Include="Label Printing\label.btw">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Other Files\SturgeonDBDataSet.xsc">
+      <DependentUpon>SturgeonDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Other Files\SturgeonDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SturgeonDBDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Other Files\SturgeonDBDataSet.xss">
+      <DependentUpon>SturgeonDBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Browse Data\Processing\Demo Charts.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Label Printing\barcode.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Label Printing\egg color.txt" />
+    <Content Include="Label Printing\egg size.txt" />
+    <Content Include="Label Printing\firmness.txt" />
+    <Content Include="Label Printing\harvest date.txt" />
+    <Content Include="Label Printing\PrintCommandsTemplate.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Label Printing\product code.txt" />
+    <Content Include="Reports\Sturgeon Icon.ico" />
+    <Content Include="SturgeonDB.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
